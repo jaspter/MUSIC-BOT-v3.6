@@ -62,7 +62,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1237355665903849514/1238144753871355944/standard_1.gif?ex=663e37a8&is=663ce628&hm=1775f8c5a41ccd44cc35a09ce3296504447c8a2aca4dd408f841726d89ae7d85&')
+       .setImage('https://cdn.discordapp.com/attachments/1237355665903849514/1238151361657569381/286d66bcfa7a8e0de6d245fe6e9c9f5c.gif?ex=663e3dd0&is=663cec50&hm=c883fa0bc7ccf474331faed3563992095976f5002e2afe7ccccb40b6b292ac06&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
         .setURL('https://comingson.netlify.app/')
